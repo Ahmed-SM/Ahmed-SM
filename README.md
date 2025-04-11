@@ -30,8 +30,8 @@ Cloud & Infra → AWS (Lambda, EventBridge, DynamoDB), Terraform, Docker
 Frontend      → React (TanStack Router, Tailwind, shadcn/ui), Next.js  
 Databases     → DynamoDB, PostgreSQL, Redis  
 CI/CD         → GitHub Actions, Vercel, Terraform Cloud  
-
-
+```
+---
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-SM&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-SM&count_private=true&layout=compact)
